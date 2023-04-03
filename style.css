@@ -1,9 +1,13 @@
-body{
-     background-color:dodgerblue;
+.cabecalho{
+
+    background-color:deeppink;
 }
-h1{
-    color:darkturquoise;
+.cabecalho-Titulo{
+
+    color:black;
 }
-p{
-    color:cornflowerblue;
+
+.cabecalho-item{
+
+    color: black;
 }
